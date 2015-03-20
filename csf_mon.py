@@ -28,7 +28,6 @@ dbsrvr = "localhost"                                                           #
 dbuser = "your_user"                                                              #User with privlages
 dbpw = "password"
 dbmain = "database"                                                            #Working DB
-dbtable = "queue" 
 argCount = len(sys.argv) #Count # of Arguments passed
 #################
 ##########################
